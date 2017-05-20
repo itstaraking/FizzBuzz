@@ -1,0 +1,6 @@
+C:\Users\MRSWHITE\Desktop\CSC 253\FixxBuzzCSharp\FixxBuzzCSharp\bin\Debug\FixxBuzzCSharp.exe.config
+C:\Users\MRSWHITE\Desktop\CSC 253\FixxBuzzCSharp\FixxBuzzCSharp\obj\Debug\FixxBuzzCSharp.csprojResolveAssemblyReference.cache
+C:\Users\MRSWHITE\Desktop\CSC 253\FixxBuzzCSharp\FixxBuzzCSharp\bin\Debug\FixxBuzzCSharp.exe
+C:\Users\MRSWHITE\Desktop\CSC 253\FixxBuzzCSharp\FixxBuzzCSharp\bin\Debug\FixxBuzzCSharp.pdb
+C:\Users\MRSWHITE\Desktop\CSC 253\FixxBuzzCSharp\FixxBuzzCSharp\obj\Debug\FixxBuzzCSharp.exe
+C:\Users\MRSWHITE\Desktop\CSC 253\FixxBuzzCSharp\FixxBuzzCSharp\obj\Debug\FixxBuzzCSharp.pdb
