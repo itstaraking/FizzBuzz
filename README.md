@@ -7,4 +7,4 @@ FizzBuzz is a game that teaches kids about division. To play, a number is given 
 
 ### Here is a code snippet 
 
-![FizzBuzzCode](https://itstaraking.github.io/FizzBuzz/FixxBuzzCSharp/FBImage.png)
+![FizzBuzzCode](https://itstaraking.github.io/FizzBuzz/FixxBuzzCSharp/FBCode.png)
