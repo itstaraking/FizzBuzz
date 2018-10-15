@@ -3,4 +3,8 @@ FizzBuzz is a game that teaches kids about division. To play, a number is given 
 
 ### Here is the output...
 
-![FizzBuzz](https://itstaraking.github.io/FizzBuzz/FixxBuzzCSharp/FBImage.png)
+![FizzBuzzOutput](https://itstaraking.github.io/FizzBuzz/FixxBuzzCSharp/FBImage.png)
+
+### Here is a code snippet 
+
+![FizzBuzzCode](https://itstaraking.github.io/FizzBuzz/FixxBuzzCSharp/FBImage.png)
